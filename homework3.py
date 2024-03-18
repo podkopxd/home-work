@@ -1,4 +1,5 @@
 MyStryng = input()
+print(MyStryng)
 ProMax = MyStryng.upper()
 print(ProMax)
 ProMax = MyStryng.lower()
